@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-12T11:52:09.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="fNeqcbcsAeBqps6MM54j" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-12T12:10:26.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ED3zayY_RnXBgKwMs5JS" version="12.5.1" type="github">
   <diagram id="Xtd1GiT8AAiNY1xsTk8r" name="Page-1">
-    <mxGraphModel dx="587" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -50,16 +50,40 @@
           <mxGeometry x="392.38" y="-276.87" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="rSTb_3P7jOwl3eCS13ki-18" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
-          <mxGeometry x="261.88" y="-659.5" width="80" height="65" as="geometry"/>
+          <mxGeometry x="261.88" y="-819.5" width="80" height="65" as="geometry"/>
         </mxCell>
         <mxCell id="rSTb_3P7jOwl3eCS13ki-19" value="Apps" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.apps;" vertex="1" parent="1">
-          <mxGeometry x="271.89" y="-550" width="60" height="60" as="geometry"/>
+          <mxGeometry x="201.41" y="-730" width="200.94" height="200.94" as="geometry"/>
         </mxCell>
         <mxCell id="rSTb_3P7jOwl3eCS13ki-20" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.user_male;" vertex="1" parent="1">
-          <mxGeometry x="294.26" y="-720" width="15.25" height="50" as="geometry"/>
+          <mxGeometry x="294.26" y="-880" width="15.25" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="rSTb_3P7jOwl3eCS13ki-21" value="Developer A" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="261.88" y="-750" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-128.png" vertex="1" parent="1">
+          <mxGeometry x="194.25" y="-765" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mysql-128.png" vertex="1" parent="1">
+          <mxGeometry x="362.35" y="-869.5" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-26" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="194.25" y="-830" width="60" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-27" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apache" vertex="1" parent="1">
+          <mxGeometry x="352.35" y="-740" width="32.6" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-128.png" vertex="1" parent="1">
+          <mxGeometry x="352.35" y="-819.5" width="70" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-31" value="librairies" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="259.88" y="-650" width="82" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-35" value="OS" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="259.88" y="-618" width="82" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="rSTb_3P7jOwl3eCS13ki-36" value="HARDWARE" style="html=1;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-586" width="143.41" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
